@@ -168,7 +168,7 @@ body > section,
 .navbar-nav li a:focus,
 .navbar-nav li a:hover {
 	background-color: transparent;
-	border-top: 1px solid #32B0EE;
+	border-top: 1px solid #FFFFFF;
 	color: #fff;
 }
 
@@ -197,7 +197,7 @@ body > section,
 }
 
 .carousel-caption h2 span {
-  font-weight: 100;
+  font-weight: 1 00;
 }
 
 .carousel-caption h3 {
@@ -237,7 +237,7 @@ top: -8px;
 }
 
 .social-links li a {
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 255, 255, 0.45);
   display: block;
   margin: 0 6px;
 }
@@ -646,7 +646,7 @@ label.error {
 
 
 .footer {
-  background-color: #1ea78d;
+  background-color: #515757;
   border-top: 5px solid #062033;
   color: #fff;
 }
@@ -714,7 +714,6 @@ label.error {
 
 .copyright {
   color: #fff;
-  margin-top: 100px;
 }
 
 #back-top {
