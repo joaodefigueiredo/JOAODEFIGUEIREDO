@@ -41,7 +41,7 @@ a, a:focus, a:hover {
 }
 
 a:focus, a:hover {
-    color: #6CB670;
+    color: #515757;
 }
 
 h1, h2, h3,
@@ -141,7 +141,7 @@ body > section,
 ==========================================*/
 
 #navigation {
-  background-color: rgba(16, 22, 54, 0.2);
+  background-color: rgba(98, 98, 98, 0.2);
   border: 0 none;
   margin: 0;
   
