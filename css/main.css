@@ -475,6 +475,10 @@ top: -8px;
 		    transform: rotateY(0deg) scale(1,1);
 }
 
+.team {
+  background-color: #f4f7f9;
+}
+
 .team-member:hover h4 {
   color: #515757;
 }
